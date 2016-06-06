@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0mRunning HelloSbt [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/wangqian/WORKSPACE/POST/Scala_Tutorial/quick_start/codes/c1/hellosbt/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/wangqian/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
